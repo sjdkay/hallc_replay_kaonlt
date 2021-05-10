@@ -19,7 +19,6 @@ This makes it easier to run this calibration with a shell script
 
 ### NOTE - SK 12/11/19 ###
 
-
 The scripts work on root files from hcana analysis and make use of
 quantities pertained to tracking, gas Cherenkov, and TOF from
 hodoscopes. Hence it is convenient to calibrate on root files from

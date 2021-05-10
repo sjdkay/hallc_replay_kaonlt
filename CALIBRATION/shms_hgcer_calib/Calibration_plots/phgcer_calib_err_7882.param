@@ -1,0 +1,15 @@
+phgcer_adc_to_npe are: 
+  1 6.082  0.057
+  2 6.884  0.095
+  3 5.000  1.711
+  4 -nan  inf
+From quality control
+  1 6.007  0.086
+  2 6.925  0.118
+  3 5.364  1.836
+  4 -nan  nan
+Weighted Average
+  1 6.060  0.047
+  2 6.900  0.074
+  3 5.169  1.252
+  4 -nan  nan
